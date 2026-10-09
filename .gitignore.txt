@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+customers.db
+reports/
+控制指令.docx
